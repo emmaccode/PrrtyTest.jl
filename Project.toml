@@ -1,0 +1,13 @@
+name = "PrrtyTest"
+uuid = "b7a69bf1-6db2-4031-b5b6-3518c3f8c881"
+authors = ["emmac <emmettgb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+Prrty = "1e0930c6-beb1-4858-b15e-f37eb5a020c2"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Toolips = "a47e2ad8-fcf7-417c-9746-32b9bdf220bd"
+ToolipsSession = "2fe55384-55bc-4df3-9d59-c817d405cd05"
+ToolipsUploader = "8d58c116-97a2-4dce-9816-d8d464dcb6e5"
